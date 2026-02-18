@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| <br><p align="center">**Desktop Markdown Viewer** is a desktop <br>application to view & edit Markdown.<br><br>Edit your Markdown and see changes<br>reflected instantly in the preview!</p> | ![Desktop Markdown Viewer](screenshot.png) |
+| <br><p align="center">**Desktop Markdown Viewer** is a desktop application to view & edit Markdown.<br><br>Edit your Markdown and see changes<br>reflected instantly in the preview!</p> | ![Desktop Markdown Viewer](screenshot.png) |
 | :--- | :---: |
 
 </div>
