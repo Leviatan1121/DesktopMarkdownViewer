@@ -1,0 +1,9 @@
+.vscode/*
+~
+**/gen/schemas
+Cargo.lock
+target
+
+icons.bat
+installUpdater.bat
+release.bat

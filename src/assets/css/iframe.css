@@ -1,0 +1,14 @@
+.markdown-body {
+    padding: 10px;
+    background: #0d1117;
+    color: #f0f6fc;
+}
+
+.markdown-body ul li:has(input[type="checkbox"]) {
+    list-style-type: none;
+    margin-left: -1.55em;
+}
+
+.markdown-body pre {
+    background: #111;
+}

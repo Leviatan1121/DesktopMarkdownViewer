@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+  <title>Desktop Markdown Viewer</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+
+  <div id="wrapper">
+    <header>
+      <button id="load-sample">Load Sample</button>
+      <button id="editor-preview">Editor / Preview</button>
+      <button id="orientation">Horizontal / Vertical</button>
+    </header>
+    <main id="main">
+      <section>
+        <pre id="markdown" contenteditable="true"></pre>
+      </section>
+      <section>
+        <iframe frameborder="0" id="preview"></iframe>
+      </section>
+    </main>
+  </div>
+
+  <script src="assets/js/main.js"></script>
+
+  <script src="assets/js/updater.js"></script>
+
+</body>
+
+</html>
