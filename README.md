@@ -1,16 +1,11 @@
 # <div align="center">Desktop Markdown Viewer</div>
 
-<!--
 <div align="center">
 
-| <br><p align="center">**Desktop Markdown Viewer** is a desktop application<br>to view and edit Markdown files with real-time preview.<br><br>Edit your Markdown and see changes reflected<br>instantly in the preview!</p> | ![Desktop Markdown Viewer](src-tauri/icons/icon.png) |
+| <br><p align="center">**Desktop Markdown Viewer** is a desktop application to view and edit Markdown files.<br><br>Edit your Markdown and see changes<br>reflected instantly in the preview!</p> | ![Desktop Markdown Viewer](screenshot.png) |
 | :--- | :---: |
 
 </div>
--->
-
-**Desktop Markdown Viewer** is a desktop application to view and edit Markdown files with real-time preview.  
-Edit your Markdown and see changes reflected instantly in the preview!
 
 ## How it works
 
