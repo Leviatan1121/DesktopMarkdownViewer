@@ -10,5 +10,17 @@
 }
 
 .markdown-body pre {
+    background: #323232;
+}
+
+.markdown-body table thead tr {
+    background: #323232;
+}
+
+.markdown-body table tbody tr {
     background: #111;
+}
+
+.markdown-body table tbody tr:nth-child(even) {
+    background: #222;
 }

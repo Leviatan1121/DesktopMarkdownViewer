@@ -1,6 +1,6 @@
 [package]
 name = "desktopmarkdownviewer"
-version = "0.0.1"
+version = "0.0.2"
 description = "A Desktop Markdown Viewer"
 authors = ["Leviatan1121"]
 edition = "2021"
